@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-food = ["veggies", "poultry", "seafood", "pork"]
+array = ["veggies", "poultry", "seafood", "pork"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  array = ["wow", "I", "am", "really", "learning"]
 end
 
 def add_element_to_start_of_array(array, element)
