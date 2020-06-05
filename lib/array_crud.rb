@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
- Array.new [food, poultry, seafood, pork]
+food = [red_meat, poultry, seafood, pork]
 end
 
 def add_element_to_end_of_array(array, element)
